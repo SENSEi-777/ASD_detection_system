@@ -4,3 +4,7 @@ googlemaps
 openai
 pandas
 numpy
+joblib
+seaborn
+matplotlib.pyplot
+sklearn
