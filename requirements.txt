@@ -6,5 +6,5 @@ pandas
 numpy
 joblib
 seaborn
-matplotlib.pyplot
+matplotlib
 sklearn
