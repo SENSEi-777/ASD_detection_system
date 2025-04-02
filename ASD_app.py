@@ -9,7 +9,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import confusion_matrix, classification_report
 from model_utils import handle_child_model
 from model_utils import handle_adult_model
-import openai
 import numpy as np
 import google.generativeai as genai
 import requests
